@@ -69,3 +69,9 @@ div.fiveDay p.card-title {
 .text-muted {
     color: white !important;
 }
+
+footer {
+    margin-top: 150px;  
+    margin-left: 550px;
+    font-size: smaller;
+}
