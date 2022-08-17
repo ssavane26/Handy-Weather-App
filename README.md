@@ -1,4 +1,4 @@
-# 06 Hany Weather App!
+## Handy Weather App!
 
 
 ## User Story
@@ -8,8 +8,7 @@ AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
-
-## Acceptance Criteria
+## Features
 
 ```
 GIVEN a weather dashboard with form inputs
@@ -26,3 +25,4 @@ THEN I am again presented with current and future conditions for that city
 ```
 <img src="Assets\Images\weather.png" alt="Girl in a jacket">
 
+ <h2><a href="https://ssavane26.github.io/Handy-Weather-App/">Deployable Link!:</a></h2>

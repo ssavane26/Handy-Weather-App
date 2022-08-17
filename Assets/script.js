@@ -198,6 +198,12 @@ $(document).ready(function () {
 });
 
 clear.addEventListener('click', function(){
-    localStorage.clear();
-    cityListEl.style.display = 'none';
+    alert("Clear Bar in Progress!");
    })
+// clear.addEventListener('click', function () {
+//     console.log('clicked clear')
+//     localStorage.clear();
+//     console.log('clear btn', cityListEl)
+//     // cityListEl.style.display = 'none';
+//     document.querySelector(".cityList").style.display = 'none';
+// })
